@@ -11,6 +11,4 @@
 - 📦 Databases: MongoDB, PostgreSQL
 
 🌐 Connect with Me:
-- 📧 Email: example@email.com
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourname/)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: vasenth01@email.com
