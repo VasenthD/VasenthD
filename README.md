@@ -1,14 +1,14 @@
-🚀 Full Stack Developer | 💡 Tech Enthusiast | 📚 Lifelong Learner
+🚀 Developer | 💡 Tech Enthusiast | 📚 Lifelong Learner
 
 🌍 Traveling the World of Code
-🎓 Computer Science Grad
+🎓 Mechanical Grad
 🌟 Passionate about Open Source
 
 💻 Tech Stack:
-- 🧩 Languages: Python, JavaScript, Go
-- 🚀 Frameworks: React, Django, Express
-- 🧰 Tools: VS Code, Git, Docker
-- 📦 Databases: MongoDB, PostgreSQL
+- 🧩 Languages: Nodejs, JavaScript, Go
+- 🚀 Frameworks: Gin, Express
+- 🧰 Tools: VS Code, Git
+- 📦 Databases: MongoDB
 
 🌐 Connect with Me:
 - 📧 Email: vasenth01@email.com
