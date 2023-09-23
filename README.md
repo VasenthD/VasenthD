@@ -2,13 +2,14 @@
 <h3 align="center">A passionate backend developer</h3>
 <hr>
 🚀 Developer | 💡 Tech Enthusiast | 📚 Lifelong Learner
+<br>
 - 🔭 I’m currently working on **NetXD**
 
-<h3 align="left">Tech stacks:</h3>
-- 🧩 Languages: Nodejs, JavaScript, Go
-- 🚀 Frameworks: Gin, Express
-- 🧰 Tools: VS Code, Git
-- 📦 Databases: MongoDB
+<h3 align="left">Tech stacks:</h3><br>
+- 🧩 Languages: Nodejs, JavaScript, Go<br>
+- 🚀 Frameworks: Gin, Express<br>
+- 🧰 Tools: VS Code, Git<br>
+- 📦 Databases: MongoDB<br>
 
 - 📫 How to reach me **vasenth01@gmail.com**
 
