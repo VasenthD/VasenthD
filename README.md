@@ -3,7 +3,7 @@
 <hr>
 
 🚀 Developer | 💡 Tech Enthusiast | 📚 Lifelong Learner
-- 🔭 I’m currently working on **NetXD**
+- 🔭 I’m currently working on ** NetXD **
   
 <h3>Tech stacks  </h3>
 
