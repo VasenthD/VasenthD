@@ -24,7 +24,7 @@
   <h3 align="left">Git:</h3>
   <br>
   <p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=vasenthd&theme=react&show_icons=true&hide_border=false&count_private=true" alt="vasenthd" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasenthd&theme=react&hide_border=false" alt="vasenthd" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasenthd&theme=react&hide_border=false&count_private=true"-- alt="vasenthd" /></p>
 </div>
 
 
